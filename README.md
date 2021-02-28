@@ -120,3 +120,5 @@ You are required to submit BOTH of the following for review:
 The URL of the deployed application.
 
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/78656766/109429180-6e8bae00-79c8-11eb-9036-05353fabfbfc.png)
+
